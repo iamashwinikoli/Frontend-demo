@@ -1,0 +1,95 @@
+body
+{
+    background-color:white;
+}
+section
+{
+    background-color:black;
+   padding: 5px;
+}
+nav a, button 
+{
+    padding: 5px;
+    margin: 5px;
+    font-size: 17px;
+    color:white;
+    display: inline-block;
+    text-decoration:underline;
+}
+div
+{
+    text-align: center;
+}
+nav,label
+{
+    text-align: left;
+}
+.btn
+{
+    border-radius: 10px;
+    margin: 10px;
+    color: black;
+}
+.btn1
+{
+    background-color: blue;
+    border-radius: 10px;
+}
+.btn2
+{
+    background-color:rgb(79, 79, 195);
+    border-radius: 10px;
+}
+h1
+{
+    text-align: center;
+    color: deeppink;
+    font-size: 80px;
+}
+h4
+{
+    text-align: right;
+    color: brown;
+}
+h2
+{
+    text-align: center;
+    color: indigo;
+}
+form
+{
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+}
+.logo
+{
+    padding: 10px;
+    width: 70px; 
+}
+.property-box
+{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img-box
+{
+        text-align: center;
+        width: 150px; 
+        height: 150px;
+        margin: 10px; 
+}
+h3
+{
+    text-align: center;
+    color: darkgreen;
+}
+footer
+{
+    color: brown;
+    padding: 10px;
+    margin: 0px;
+    background-color: cadetblue;
+}
